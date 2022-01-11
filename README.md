@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winniffy
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning html & css.
+- 🌱 I’m currently learning css.
 - 💞️ I’m looking to collaborate on any frontend project that would help me learn on the job.
 - 📫 How to reach me winniffy@gmail.com
 
