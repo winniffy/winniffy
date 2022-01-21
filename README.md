@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winniffy
+- 👋 Hi, I’m winner. 
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning css.
 - 💞️ I’m looking to collaborate on any frontend project that would help me learn on the job.
