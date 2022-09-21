@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Winner.
  
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning css.
-- 💞️ I’m looking to collaborate on any frontend project that would help me learn on the job.
-- 📫 Email: winniffy@gmail.com
+- 👀 interested in frontend development.
+- 🌱 currently learning javascript.
+- 💞️ looking to collaborate on any frontend project that would help me learn on the job.
+- 📫 reach me for internship: winniffy@gmail.com
 
 <br></br>
 
