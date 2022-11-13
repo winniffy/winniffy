@@ -3,7 +3,7 @@
 - 👀 interested in frontend development.
 - 🌱 currently learning javascript.
 - 💞️ looking to collaborate on any frontend project that would help me learn on the job.
-- 📫 reach me for internship: winniffy@gmail.com
+- 📫 available for internship frontend web dev roles: winniffy@gmail.com
 
 <br></br>
 
@@ -19,6 +19,9 @@
   
   </div>
 <br>
+
+## Work/Porfolio
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/winnerumeh)
 
 ## Socials
 
